@@ -28,3 +28,6 @@ print(line.split(','))
 print(s.isalpha())
 
 print(line.rstrip().split(','))
+
+L=[[1,2,3],[4,5,6],[7,8,9]]
+[row[1] for row in L if row[1] % 2 == 0]
