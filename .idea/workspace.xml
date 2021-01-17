@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea601caf-c899-4441-8066-7a326607ec6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic-struct-algos/quick-sort.py" afterDir="false" />
-    </list>
+    <list default="true" id="ea601caf-c899-4441-8066-7a326607ec6f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/basic-struct-algos/quick-sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            <state relative-caret-position="165">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -134,10 +132,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="535" />
-    <option name="y" value="25" />
-    <option name="width" value="905" />
-    <option name="height" value="823" />
+    <option name="y" value="28" />
+    <option name="width" value="1440" />
+    <option name="height" value="872" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -289,23 +286,22 @@
       <workItem from="1609609171100" duration="779000" />
       <workItem from="1609685742606" duration="10346000" />
       <workItem from="1610055418590" duration="804000" />
-      <workItem from="1610631760691" duration="3500000" />
+      <workItem from="1610631760691" duration="3944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15429000" />
+    <option name="totallyTimeSpent" value="15873000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="28" width="1440" height="872" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10801145" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10801145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7288984" weight="0.25301206" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7281831" weight="0.25301206" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -313,8 +309,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4994206" weight="0.32928178" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20028612" side_tool="true" visible="true" weight="0.28554216" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.79971385" visible="true" weight="0.28554216" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20100144" side_tool="true" visible="true" weight="0.29551122" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.7989986" visible="true" weight="0.29551122" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4994206" weight="0.32928178" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -406,8 +402,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic-struct-algos/quick-sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        <state relative-caret-position="165">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
